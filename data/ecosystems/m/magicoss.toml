@@ -1,0 +1,28 @@
+# Ecosystem Level Information
+title = "Magic Open Source"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/magiceoss"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/magicoss/.github"
+
+[[repo]]
+url = "https://github.com/magicoss/mmm"
+
+[[repo]]
+url = "https://github.com/magicoss/m2"
+
+[[repo]]
+url = "https://github.com/magicoss/community-managed-token"
+
+[[repo]]
+url = "https://github.com/magicoss/erc721m"
+
+[[repo]]
+url = "https://github.com/magicoss/msigner"
+
+[[repo]]
+url = "https://github.com/magicoss/open_creator_protocol"
